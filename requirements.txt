@@ -1,0 +1,7 @@
+libraries used:
+
+streamlit-- for creating interactive web app/ web dashboard interface-- interactive sidebar, displaying charts, dataframes, and UI elements
+pandas-- to load and handle data/ To load, clean, and manipulate the dataset (like reading CSV, converting date columns, filtering, etc.)
+matplotlib-- to plot graphs/ matplotlib.pyplot-- To plot the price charts including line plots, scatter plots, and moving averages
+requests-- to fetch live bitcoin price from api(CoinGecko API)
+datetime-To get the current date and compare it with historical data
